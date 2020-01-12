@@ -1,2 +1,6 @@
 N=int(input())
-print(N*N*N)
+if N>0:
+ print(N*N*N)
+else:
+ print("error")
+
