@@ -1,0 +1,5 @@
+A=float(input("length: "))
+B=float(input("breadth: "))
+area=(A*B)
+c=int(area)
+print(c)
